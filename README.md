@@ -1,4 +1,4 @@
-lab03: Huiyu Zhang(ScudBt)
+lab04: Huiyu Zhang(ScudBt)
 
 Javadoc: https://ucsb-cs56-w20.github.io/lab04-ScudBt/
 
